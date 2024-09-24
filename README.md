@@ -2,7 +2,7 @@
 
 **A comprehensive data analysis tool that leverages MySQL to organize and manage over 10,000 transactions from a coffee shop chain with three branches: JP Nagar, Banashankari, and Malleshwaram. The project features a visually appealing Power BI dashboard that provides insightful visualizations of sales trends, customer behavior, and branch performance.**
 
-[coffeedash.png]
+![dashoard](coffeedash.png)
 
 ### Key Features:
 
